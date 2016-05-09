@@ -1,0 +1,6 @@
+#pragma once
+
+// .....
+// Implementation von insert_into
+// .....
+

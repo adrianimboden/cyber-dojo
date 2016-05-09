@@ -1,0 +1,14 @@
+
+{
+  "visible_filenames": [
+    "chain.tests.cpp",
+    "chain.hpp",
+    "makefile",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension" : ".cpp",
+  "display_name": "C++ (clang++), Chain",
+  "unit_test_framework": "google_test",
+  "image_name": "cyberdojofoundation/template_chain"
+
+}

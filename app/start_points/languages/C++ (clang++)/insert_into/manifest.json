@@ -1,0 +1,14 @@
+
+{
+  "visible_filenames": [
+    "insert_into.tests.cpp",
+    "insert_into.hpp",
+    "makefile",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension" : ".cpp",
+  "display_name": "C++ (clang++), insert_into",
+  "unit_test_framework": "google_test",
+  "image_name": "cyberdojofoundation/template_insert_into"
+
+}

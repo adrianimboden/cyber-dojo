@@ -1,0 +1,14 @@
+
+{
+  "visible_filenames": [
+    "dump_list.tests.cpp",
+    "dump_list.hpp",
+    "makefile",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension" : ".cpp",
+  "display_name": "C++ (clang++), Dump List",
+  "unit_test_framework": "google_test",
+  "image_name": "cyberdojofoundation/template_dump_list"
+
+}

@@ -1,0 +1,14 @@
+
+{
+  "visible_filenames": [
+    "memoizer.tests.cpp",
+    "memoizer.hpp",
+    "makefile",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension" : ".cpp",
+  "display_name": "C++ (clang++), Memoizer",
+  "unit_test_framework": "google_test",
+  "image_name": "cyberdojofoundation/template_memoizer"
+
+}
